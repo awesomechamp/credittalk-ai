@@ -1,9 +1,6 @@
-# credittalk-ai
-CreditTalk AI helps users get clear, personalized credit score insights, repayment tips, and loan recommendations in just 2 minutes via an AI voice call. Action plans are delivered instantly via WhatsApp or email. Built for banks, fintechs, and lenders to cut costs, boost trust, and drive cross-sell.
-
 # CreditTalk AI
 
-> Fix your credit worries in a single short call — AI-powered voice advisor for instant, jargon-free guidance.
+> CreditTalk AI helps users get clear, personalized credit score insights, repayment tips, and loan recommendations in just 2 minutes via an AI voice call. Action plans are delivered instantly via WhatsApp or email. Built for banks, fintechs, and lenders to cut costs, boost trust, and drive cross-sell.
 
 **Team:** CreditTalk AI  
 **Landing Page:** [https://primetitans.com/credittalk-ai/](https://primetitans.com/credittalk-ai/)  
